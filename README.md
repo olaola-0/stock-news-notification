@@ -1,4 +1,4 @@
-# Stock News Notification
+# Stock News Notification 📈 📉 📰
 This project fetches the stock price of a particular company from the Alpha Vantage API. If the stock price changes by more than 0.65%, it fetches the top 3 news related to the company from the News API. It then sends a brief about these news articles through SMS using Twilio API.
 
 ## Features
